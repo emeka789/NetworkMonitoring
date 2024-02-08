@@ -1,3 +1,2 @@
-# Network Traffic Monitoring Lab using SNORT
-
+# UDP Flood Attack Detection using SNORT
 ## Objective
