@@ -1,6 +1,6 @@
 # UDP Flood Attack Detection using SNORT
 
-![Copy of Log ana (3)](https://github.com/emeka789/NetworkMonitoring/assets/99328320/12b140ee-7427-4784-91a5-9e651159a340)
+![Copy of Log ana (4)](https://github.com/emeka789/NetworkMonitoring/assets/99328320/a80c574b-acdc-42bd-9f86-9877691b2592)
 
 ## Summary
 In this project, a Linux virtual machine was configured with Snort in order to monitor network traffic.
