@@ -4,3 +4,12 @@
 
 ## Summary
 In this project, a Linux virtual machine was configured with Snort in order to monitor network traffic.
+
+## Technologies Used
+- Virtual Machines (Linux/Windows)
+- Linux CLI
+- Snort
+
+## Snort Rules Implemented
+- SSH Authenication Attemps
+- ICMP Ping
